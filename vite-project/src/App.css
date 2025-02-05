@@ -23,6 +23,13 @@ nav {
   margin-bottom: 60px;
 }
 
+#logo {
+  width: 120px;
+}
+
+#nav-img {
+  width: 40px;
+}
 
 #hero-section {
   display: flex;

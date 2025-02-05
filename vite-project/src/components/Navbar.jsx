@@ -3,12 +3,12 @@ export default function Navbar() {
       <nav>
         <img
           id="logo"
-          src= "../assets/discord-logo-white"
+          src= "./src/assets/discord-logo-white.png"
           alt="logo discord"
         />
         <img
           id="nav-img"
-          src= "../assets/menu-icon.png"
+          src= "./src/assets/menu-icon.png"
           alt="icon hamburger"
         />
         
